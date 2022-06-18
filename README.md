@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+[[# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
@@ -153,3 +153,4 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+](https://github-readme-stats.vercel.app/api?username=smartcoder3000&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=smartcoder3000&show_icons=true&theme=github_dark)
